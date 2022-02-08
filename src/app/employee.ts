@@ -10,7 +10,7 @@ export class Employee {
     address: string;
     pincode: string;
     active: number;
-
+ 
 
     constructor() {
         this.id=0 ;

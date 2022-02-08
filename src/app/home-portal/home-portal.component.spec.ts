@@ -1,7 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { HomePortalComponent } from './home-portal.component';
-
+ 
 describe('HomePortalComponent', () => {
   let component: HomePortalComponent;
   let fixture: ComponentFixture<HomePortalComponent>;

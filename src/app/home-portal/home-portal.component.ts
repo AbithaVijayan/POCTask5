@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home-portal.component.css']
 })
 export class HomePortalComponent implements OnInit {
-
+ 
   constructor() { }
 
   ngOnInit(): void {

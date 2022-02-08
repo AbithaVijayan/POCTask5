@@ -13,7 +13,7 @@ import { UpdateEmployeeComponent } from './update-employee/update-employee.compo
 import { HomePortalComponent } from './home-portal/home-portal.component';
 import { EmployeeDetailsComponent } from './employee-details/employee-details.component';
 import { SearchFilterPipe } from './search-filter.pipe';
-
+ 
 @NgModule({
   declarations: [
     AppComponent,

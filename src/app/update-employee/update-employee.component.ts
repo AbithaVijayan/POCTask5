@@ -7,7 +7,7 @@ import { EmployeeService } from '../employee.service';
   selector: 'app-update-employee',
   templateUrl: './update-employee.component.html',
   styleUrls: ['./update-employee.component.css']
-})
+}) 
 export class UpdateEmployeeComponent implements OnInit {
   id:number=0;
   employee:Employee=new Employee();
